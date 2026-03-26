@@ -23,4 +23,4 @@
 
 # 7 Linkedin Post
 > Submit the LinkedIn post URL
-> [LinkedIn post URL]
+> https://www.linkedin.com/posts/tharunkumar-r-743b62271_tharunkumar-youngscientist-medicalrobotics-ugcPost-7436141785359204352-UDFP?utm_source=share&utm_medium=member_desktop&rcm=ACoAAEKOi6MB4Jfsi9lau_iYXI2nnlZCyHbZmJg
